@@ -1,0 +1,13 @@
+<html>
+<body>
+
+<h2>use of script tag</h2>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Script tag";
+</script>
+
+</body>
+</html> 
